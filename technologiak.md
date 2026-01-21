@@ -24,3 +24,18 @@
 | Technológia | Tetszés |
 |------------|--------|
 | JavaScript | ⭐⭐⭐⭐⭐ |
+
+
+```html
+<h1>Helló világ</h1>
+```
+
+```css
+body {
+  background-color: lightgray;
+}
+```
+
+```javascript
+console.log("Hello world");
+```
